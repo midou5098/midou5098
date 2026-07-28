@@ -2,7 +2,7 @@
   
 <img width="180" height="150" alt="XwI4" src="https://github.com/user-attachments/assets/c3113c2e-ff91-48ed-b485-d2e600da4dd1" />
   <a href="https://git.io/streak-stats">
-    <[img src="https://streak-stats.demolab.com?user=mohamed-adhd&theme=dark&mode=daily" style="height: 170px; width: auto;" />](https://streak-stats.demolab.com?user=mohamed-adhd&theme=dark&mode=daily&v=1)
+    <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=mohamed-adhd&theme=dark&mode=daily" style="height: 170px; width: auto;" />
   </a>
 </div>
 c/c++/c# adhd programmer
